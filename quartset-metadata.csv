@@ -1,0 +1,561 @@
+﻿ID,Composer,Composition,Movement,Catalog No.,Source,Duration (s),Tempo (BPM),Tempo,Measures,Lowest Note,Highest Note,Dynamics,Cresc.,Decresc.,Articulation,Ornaments,Chords,Clef Change
+1788-0,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,41,35,Adagio,8,E2,Db6,"f, p",Yes,No,,,No,No
+1788-1,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,45,35,Adagio,9,Eb2,C6,"f, p, sf",Yes,No,,,No,No
+1788-2,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,29,35,Adagio,5,F#2,D5,"f, p, sf",No,No,,,No,No
+1788-3,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,13,150,Allegro,8,E3,A5,p,No,No,,,No,No
+1788-4,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,15,150,Allegro,9,C2,C4,"f, p, sf",No,No,Staccato,,No,No
+1788-5,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,10,140,Allegro,6,A2,D6,"f, p",Yes,No,,Trill,No,No
+1788-6,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,5,140,Allegro,3,A2,A5,p,No,No,Staccato,Grace Note,No,No
+1788-7,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,9,140,Allegro,5,G2,C6,"f, p",No,No,Staccato,,Yes,No
+1788-8,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,10,140,Allegro,6,G2,C6,p,No,No,Staccato,,No,No
+1788-9,Mozart,String Quartet No 19 in C Major,1,K465,Museopen,11,140,Allegro,6,G2,B5,"f, p",No,No,Staccato,"Grace Note, Trill",No,No
+1789-0,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,34,50,Andante cantabile,9,F2,A5,"f, p",Yes,No,Staccato,"Trill, Turn",No,No
+1789-1,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,28,50,Andante cantabile,7,F2,B5,"f, p",No,No,,,No,No
+1789-2,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,28,50,Andante cantabile,7,F#2,B5,"f, p",Yes,No,,Grace Note,No,No
+1789-3,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,23,50,Andante cantabile,6,G2,F5,"p, pp",No,No,Staccato,,No,No
+1789-4,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,34,50,Andante cantabile,8,E2,C6,"f, p, pp",Yes,No,Staccato,"Grace Note, Trill",Yes,No
+1789-5,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,28,50,Andante cantabile,7,B2,C6,"f, p",Yes,No,,"Grace Note, Trill",No,No
+1789-6,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,32,50,Andante cantabile,8,C#2,F5,"f, p",Yes,No,,Turn,No,No
+1789-7,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,28,50,Andante cantabile,7,Eb2,B5,"f, p",Yes,No,Staccato,,No,No
+1789-8,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,28,50,Andante cantabile,7,A2,C6,"f, p",Yes,No,,,No,No
+1789-9,Mozart,String Quartet No 19 in C Major,2,K465,Museopen,29,50,Andante cantabile,7,C2,D6,"f, p",Yes,No,,Grace Note,Yes,No
+1790-0,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,7,150,Allegro,10,G2,A5,"f, p",No,No,,,No,No
+1790-1,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,11,150,Allegro,10,F#2,D6,"f, p, sf",No,No,Staccato,,No,No
+1790-2,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,11,150,Allegro,9,A2,A5,"f, p",No,No,,,Yes,No
+1790-3,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,8,150,Allegro,7,G2,Bb5,p,No,No,,,No,No
+1790-4,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,10,150,Allegro,9,G2,A5,"f, p",No,No,,,No,No
+1790-5,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,10,150,Allegro,8,F2,D6,"f, p, sf",No,No,Staccato,,No,No
+1790-6,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,11,150,Allegro,10,C2,C6,"f, p",No,No,,Trill,No,No
+1790-7,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,11,150,Allegro,9,C2,E6,"f, p",No,No,,Trill,No,No
+1790-8,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,8,150,Allegro,7,B2,E6,"f, p",No,No,,Trill,No,No
+1790-9,Mozart,String Quartet No 19 in C Major,3,K465,Museopen,13,150,Allegro,11,C2,G6,"f, p",No,No,,,No,No
+1791-0,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,7,150,Allegro,9,C3,C6,p,No,No,Staccato,,No,No
+1791-1,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,8,150,Allegro,10,G2,B5,"f, p",No,No,Staccato,Grace Note,No,No
+1791-2,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,10,150,Allegro,11,G2,C6,"f, p",Yes,No,Staccato,,No,No
+1791-3,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,8,150,Allegro,10,G2,F6,"f, p",No,No,,Grace Note,No,No
+1791-4,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,8,150,Allegro,10,D2,Eb6,f,No,No,,,No,No
+1791-5,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,9,150,Allegro,11,D2,D6,"f, p",No,No,Staccato,,No,No
+1791-6,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,8,150,Allegro,10,F#2,E5,"f, p",No,No,Staccato,"Grace Note, Trill",Yes,No
+1791-7,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,7,150,Allegro,8,D2,A5,p,No,No,Staccato,,Yes,No
+1791-8,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,7,150,Allegro,9,G2,A5,"fp, p, sf",No,No,Staccato,,No,No
+1791-9,Mozart,String Quartet No 19 in C Major,4,K465,Museopen,10,150,Allegro,12,D3,F5,p,No,No,,,No,No
+1792-0,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,42,35,Adagio,8,E2,Db6,"f, p",Yes,No,,,No,No
+1792-1,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,47,35,Adagio,9,Eb2,C6,"f, p, sf",Yes,No,,,No,No
+1792-2,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,34,35,Adagio,5,F#2,D5,"f, p, sf",No,No,,,No,No
+1792-3,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,11,150,Allegro,8,E3,A5,p,No,No,,,No,No
+1792-4,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,13,150,Allegro,9,C2,C4,"f, p, sf",No,No,Staccato,,No,No
+1792-5,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,8,140,Allegro,6,A2,D6,"f, p",Yes,No,,Trill,No,No
+1792-6,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,4,140,Allegro,3,A2,A5,p,No,No,Staccato,Grace Note,No,No
+1792-7,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,7,140,Allegro,5,G2,C6,"f, p",No,No,Staccato,,Yes,No
+1792-8,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,9,140,Allegro,6,G2,C6,p,No,No,Staccato,,No,No
+1792-9,Mozart,String Quartet No 19 in C Major,1,K465,European Archive,9,140,Allegro,6,G2,B5,"f, p",No,No,Staccato,"Grace Note, Trill",No,No
+1793-0,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,34,50,Andante cantabile,9,F2,A5,"f, p",Yes,No,Staccato,"Trill, Turn",No,No
+1793-1,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,28,50,Andante cantabile,7,F2,B5,"f, p",No,No,,,No,No
+1793-2,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,28,50,Andante cantabile,7,F#2,B5,"f, p",Yes,No,,Grace Note,No,No
+1793-3,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,23,50,Andante cantabile,6,G2,F5,"p, pp",No,No,Staccato,,No,No
+1793-4,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,34,50,Andante cantabile,8,E2,C6,"f, p, pp",Yes,No,Staccato,"Grace Note, Trill",Yes,No
+1793-5,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,28,50,Andante cantabile,7,B2,C6,"f, p",Yes,No,,"Grace Note, Trill",No,No
+1793-6,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,32,50,Andante cantabile,8,C#2,F5,"f, p",Yes,No,,Turn,No,No
+1793-7,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,28,50,Andante cantabile,7,Eb2,B5,"f, p",Yes,No,Staccato,,No,No
+1793-8,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,28,50,Andante cantabile,7,A2,C6,"f, p",Yes,No,,,No,No
+1793-9,Mozart,String Quartet No 19 in C Major,2,K465,European Archive,29,50,Andante cantabile,7,C2,D6,"f, p",Yes,No,,Grace Note,Yes,No
+1805-0,Mozart,String Quartet No 14 in G major,1,K387,European Archive,19,110,Allegro vivace assai,8,A2,E6,"f, p",Yes,No,,"Grace Note, Trill",No,No
+1805-1,Mozart,String Quartet No 14 in G major,1,K387,European Archive,17,110,Allegro vivace assai,8,D2,D6,"f, p",Yes,No,,Trill,No,No
+1805-2,Mozart,String Quartet No 14 in G major,1,K387,European Archive,12,110,Allegro vivace assai,6,A2,B5,"f, fp, p",Yes,No,,,No,No
+1805-3,Mozart,String Quartet No 14 in G major,1,K387,European Archive,17,110,Allegro vivace assai,8,G2,A5,"f, fp, p",No,No,Staccato,,No,No
+1805-4,Mozart,String Quartet No 14 in G major,1,K387,European Archive,15,110,Allegro vivace assai,7,D2,D6,"f, p",No,No,Staccato,Grace Note,No,No
+1805-5,Mozart,String Quartet No 14 in G major,1,K387,European Archive,10,110,Allegro vivace assai,5,D2,D6,"f, p",No,No,Staccato,,Yes,No
+1805-6,Mozart,String Quartet No 14 in G major,1,K387,European Archive,10,110,Allegro vivace assai,5,G2,D6,"f, p",Yes,No,,Grace Note,No,No
+1805-7,Mozart,String Quartet No 14 in G major,1,K387,European Archive,15,110,Allegro vivace assai,7,G2,D6,"f, fp, p, pp",No,No,Staccato,Grace Note,No,No
+1805-8,Mozart,String Quartet No 14 in G major,1,K387,European Archive,18,110,Allegro vivace assai,8,B2,A5,"f, fp, p",No,Yes,Staccato,,No,No
+1805-9,Mozart,String Quartet No 14 in G major,1,K387,European Archive,17,110,Allegro vivace assai,8,C2,G#4,"f, fp, p",No,No,Staccato,,Yes,No
+1807-0,Mozart,String Quartet No 14 in G major,3,K387,European Archive,24,45,Andante cantabile,6,G2,C6,"f, p, pp",Yes,No,Staccato,,No,No
+1807-1,Mozart,String Quartet No 14 in G major,3,K387,European Archive,17,45,Andante cantabile,4,C2,C6,"f, fp, p",No,No,Staccato,,No,No
+1807-2,Mozart,String Quartet No 14 in G major,3,K387,European Archive,12,45,Andante cantabile,3,F#2,E6,p,No,No,Staccato,Grace Note,No,No
+1807-3,Mozart,String Quartet No 14 in G major,3,K387,European Archive,24,45,Andante cantabile,6,Eb2,E6,"p, sf",No,No,Staccato,,No,No
+1807-4,Mozart,String Quartet No 14 in G major,3,K387,European Archive,20,45,Andante cantabile,5,D2,D6,"f, p",No,No,Staccato,Trill,No,No
+1807-5,Mozart,String Quartet No 14 in G major,3,K387,European Archive,25,45,Andante cantabile,6,D2,D6,"fp, p, sf",Yes,No,Staccato,,No,No
+1807-6,Mozart,String Quartet No 14 in G major,3,K387,European Archive,24,45,Andante cantabile,6,G2,D6,p,No,No,Staccato,,No,No
+1807-7,Mozart,String Quartet No 14 in G major,3,K387,European Archive,16,45,Andante cantabile,4,D2,G6,"f, p",No,No,Staccato,Grace Note,No,No
+1807-8,Mozart,String Quartet No 14 in G major,3,K387,European Archive,34,45,Andante cantabile,8,C2,Ab5,"f, p",Yes,No,,"Grace Note, Trill",Yes,No
+1807-9,Mozart,String Quartet No 14 in G major,3,K387,European Archive,38,45,Andante cantabile,9,C2,Gb5,"p, pp",Yes,No,Staccato,,Yes,No
+1822-0,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,18,90,Allegro,6,D2,F6,,No,No,Staccato,Trill,No,No
+1822-1,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,16,90,Allegro,6,A2,F6,"f, fp, mf, p",No,No,Staccato,Trill,No,No
+1822-2,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,18,90,Allegro,6,E2,B5,"f, fp, p",Yes,No,Staccato,,Yes,No
+1822-3,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,15,90,Allegro,6,F2,C6,"f, fp, mf, p",No,No,Staccato,"Grace Note, Trill",No,No
+1822-4,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,12,90,Allegro,4,A2,B5,p,Yes,No,Staccato,,No,No
+1822-5,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,12,90,Allegro,4,A2,F6,"f, p, sf",No,No,Staccato,Trill,No,No
+1822-6,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,12,90,Allegro,4,F2,D6,"p, sf",No,No,Staccato,Trill,No,No
+1822-7,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,16,90,Allegro,5,C2,D6,p,Yes,No,Staccato,Trill,No,No
+1822-8,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,21,85,Allegro,7,D#2,F4,"f, p, pp",No,No,Staccato,Trill,No,No
+1822-9,Mozart,String Quartet No 15 in D minor,1,K421,Museopen,26,85,Allegro,9,E2,A5,"f, fp, p",Yes,No,Staccato,Trill,No,No
+1824-0,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,140,Allegretto,10,A2,A5,f,No,No,,,No,No
+1824-1,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,140,Allegretto,10,A2,A5,f,No,No,,,No,No
+1824-2,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,16,140,Allegretto,12,G#2,G5,"f, p",Yes,No,,,No,No
+1824-3,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,16,140,Allegretto,12,G#2,G5,"f, p",Yes,No,,,No,No
+1824-4,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,17,140,Allegretto,12,F2,A5,"f, p, pp",No,No,Staccato,,No,No
+1824-5,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,17,140,Allegretto,12,F2,A5,"f, p, pp",No,No,Staccato,,No,No
+1824-6,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,125,Allegretto,7,A2,G6,p,No,No,,,Yes,No
+1824-7,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,125,Allegretto,7,A2,G6,p,No,No,Pizzicato,,Yes,No
+1824-8,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,125,Allegretto,8,E2,A6,p,No,No,"Pizzicato, Staccato",,Yes,No
+1824-9,Mozart,String Quartet No 15 in D minor,3,K421,Museopen,13,125,Allegretto,8,D2,G6,p,No,No,Pizzicato,,Yes,No
+1835-0,Mozart,String Quartet No 23 in F major,3,K590,European Archive,9,160,Allegretto,8,D2,D6,"f, p",No,No,Staccato,Grace Note,No,No
+1835-1,Mozart,String Quartet No 23 in F major,3,K590,European Archive,7,160,Allegretto,6,C2,B5,f,No,No,,"Grace Note, Trill",No,No
+1835-2,Mozart,String Quartet No 23 in F major,3,K590,European Archive,9,160,Allegretto,8,C2,C6,"f, p, sf",Yes,No,,Grace Note,No,No
+1835-3,Mozart,String Quartet No 23 in F major,3,K590,European Archive,9,160,Allegretto,8,F2,Eb6,p,No,No,Staccato,Grace Note,No,No
+1835-4,Mozart,String Quartet No 23 in F major,3,K590,European Archive,10,160,Allegretto,8,C2,G6,p,No,No,Staccato,Grace Note,No,No
+1835-5,Mozart,String Quartet No 23 in F major,3,K590,European Archive,11,150,Allegretto,9,C2,F6,p,No,No,Staccato,Grace Note,No,No
+1835-6,Mozart,String Quartet No 23 in F major,3,K590,European Archive,8,150,Allegretto,7,F2,D6,f,No,No,Staccato,Grace Note,No,No
+1835-7,Mozart,String Quartet No 23 in F major,3,K590,European Archive,10,150,Allegretto,8,C3,D6,"f, p",No,No,Staccato,Grace Note,No,No
+1835-8,Mozart,String Quartet No 23 in F major,3,K590,European Archive,10,150,Allegretto,8,C2,F6,p,No,No,Staccato,Grace Note,No,No
+1835-9,Mozart,String Quartet No 23 in F major,3,K590,European Archive,10,150,Allegretto,8,C2,F6,p,No,No,Staccato,Grace Note,No,No
+1859-0,Mozart,String Quartet No 18 in A major,2,K464,European Archive,21,125,Allegretto,14,F#2,C#6,"f, p",No,No,Staccato,,No,No
+1859-1,Mozart,String Quartet No 18 in A major,2,K464,European Archive,19,125,Allegretto,14,D#2,B5,"f, p",No,No,Staccato,,No,No
+1859-2,Mozart,String Quartet No 18 in A major,2,K464,European Archive,23,125,Allegretto,16,G2,B5,"f, p",No,No,Staccato,,Yes,No
+1859-3,Mozart,String Quartet No 18 in A major,2,K464,European Archive,19,125,Allegretto,14,G#2,A5,"f, p",No,No,Staccato,,No,No
+1859-4,Mozart,String Quartet No 18 in A major,2,K464,European Archive,19,125,Allegretto,14,A2,E6,"f, p",No,No,Staccato,,No,No
+1859-5,Mozart,String Quartet No 18 in A major,2,K464,European Archive,11,125,Allegretto,8,D#2,E5,p,No,No,Staccato,,No,No
+1859-6,Mozart,String Quartet No 18 in A major,2,K464,European Archive,9,125,Allegretto,7,A#2,B5,p,No,No,,𝄪,No,No
+1859-7,Mozart,String Quartet No 18 in A major,2,K464,European Archive,14,125,Allegretto,10,E2,C#6,"f, p",Yes,Yes,,,No,No
+1859-8,Mozart,String Quartet No 18 in A major,2,K464,European Archive,10,125,Allegretto,7,D#2,A5,p,No,No,Staccato,,No,No
+1859-9,Mozart,String Quartet No 18 in A major,2,K464,European Archive,10,125,Allegretto,7,D#2,A5,p,No,No,Staccato,,No,No
+1916-0,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,26,100,Allegro ma non troppo,9,Eb2,Eb5,"f, fz, p",Yes,No,Staccato,,Yes,No
+1916-1,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,26,100,Allegro ma non troppo,9,G2,Gb5,"p, pp",Yes,Yes,Staccato,,Yes,No
+1916-2,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,26,100,Allegro ma non troppo,9,G2,Gb5,"p, pp",Yes,Yes,Staccato,,Yes,No
+1916-3,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,15,100,Allegro ma non troppo,6,C2,Eb6,"f, pp",Yes,No,"Accent, Hat, Marcato, Staccato",,No,No
+1916-4,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,15,100,Allegro ma non troppo,6,D2,F6,"f, p",Yes,Yes,"Accent, Hat, Staccato",,No,No
+1916-5,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,24,100,Allegro ma non troppo,10,D2,Eb6,"f, mf, p",Yes,Yes,"Legato, Staccato",,No,No
+1916-6,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,17,100,Allegro ma non troppo,7,D2,G6,"f, p",Yes,Yes,Pizzicato,,No,No
+1916-7,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,16,100,Allegro ma non troppo,7,F2,A6,"p, pp",Yes,Yes,"Pizzicato, Staccato",,No,No
+1916-8,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,14,100,Allegro ma non troppo,6,D2,A6,"f, p, pp",Yes,Yes,"Hat, Pizzicato, Staccato",,Yes,No
+1916-9,Dvorak,String Quartet No 10 in E-flat major,1,OP51,Museopen,24,100,Allegro ma non troppo,10,E2,F#6,"f, p, pp",Yes,Yes,Hat,,No,No
+1918-0,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,50,35,Andante con moto,12,Eb2,Eb6,"f, p, pp",Yes,Yes,,,Yes,No
+1918-1,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,48,35,Andante con moto,13,C2,Eb6,"f, p, pp",Yes,Yes,Legato,,Yes,No
+1918-2,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,38,35,Andante con moto,11,C2,D6,"f, pp",Yes,Yes,Legato,"Grace Note, Mordent",No,No
+1918-3,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,24,35,Andante con moto,8,Eb2,D6,"f, fz, p, pp",Yes,Yes,Legato,Grace Note,No,No
+1918-4,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,31,35,Andante con moto,8,C2,Cb5,"f, p, pp",Yes,Yes,"Legato, Staccato",,Yes,No
+1918-5,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,29,35,Andante con moto,8,C2,G5,"p, pp",Yes,Yes,"Legato, Pizzicato",,Yes,No
+1918-6,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,25,35,Andante con moto,7,G2,G6,"p, pp",Yes,Yes,Pizzicato,,Yes,No
+1918-7,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,29,35,Andante con moto,8,Eb2,Ab5,"f, mf, p, pp",Yes,Yes,"Legato, Pizzicato",,Yes,No
+1918-8,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,39,35,Andante con moto,10,C2,Bb6,"f, fz, p, pp",Yes,Yes,"Accent, Hat, Pizzicato, Staccato",,Yes,No
+1918-9,Dvorak,String Quartet No 10 in E-flat major,3,OP51,Museopen,51,35,Andante con moto,11,Eb2,F6,"f, fp, mf, p, pp",Yes,Yes,"Accent, Hat, Legato, Staccato",,Yes,No
+1919-0,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,8,126,Allegro assai,6,C2,Ab5,"fz, p",No,No,"Accent, Staccato",,No,No
+1919-1,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,7,126,Allegro assai,8,C2,Db5,"fp, p",Yes,No,"Accent, Staccato",,No,No
+1919-2,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,8,126,Allegro assai,8,Bb2,G5,"fz, p, pp",Yes,Yes,Accent,,No,No
+1919-3,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,10,126,Allegro assai,10,D2,Eb6,"mf, p",Yes,No,"Accent, Staccato",,No,No
+1919-4,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,10,126,Allegro assai,10,C2,Ab6,"f, ff, fz",Yes,No,"Accent, Marcato, Staccato",,Yes,No
+1919-5,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,8,126,Allegro assai,8,F4,Eb6,"fp, pp",No,No,,,No,No
+1919-6,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,6,126,Allegro assai,6,A2,G5,pp,No,No,"Accent, Pizzicato, Staccato",,No,No
+1919-7,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,7,126,Allegro assai,7,D2,D6,"f, fz, pp",Yes,No,"Accent, Hat, Pizzicato, Staccato",,No,No
+1919-8,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,8,126,Allegro assai,8,C2,G5,p,No,Yes,"Accent, Staccato",,Yes,No
+1919-9,Dvorak,String Quartet No 10 in E-flat major,4,OP51,Museopen,7,126,Allegro assai,7,E2,Ab6,"f, fz, p",Yes,No,"Accent, Staccato",,Yes,No
+1922-0,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,47,35,Andante con moto,12,Eb2,Eb6,"f, p, pp",Yes,Yes,,,Yes,No
+1922-1,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,49,35,Andante con moto,13,C2,Eb6,"f, p, pp",Yes,Yes,Legato,,Yes,No
+1922-2,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,39,35,Andante con moto,11,C2,D6,"f, pp",Yes,Yes,Legato,"Grace Note, Mordent",No,No
+1922-3,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,28,35,Andante con moto,8,Eb2,D6,"f, fz, p, pp",Yes,Yes,Legato,Grace Note,No,No
+1922-4,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,31,35,Andante con moto,8,C2,Cb5,"f, p, pp",Yes,Yes,"Legato, Staccato",,Yes,No
+1922-5,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,31,35,Andante con moto,8,C2,G5,"p, pp",Yes,Yes,"Legato, Pizzicato",,Yes,No
+1922-6,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,28,35,Andante con moto,7,G2,G6,"p, pp",Yes,Yes,Pizzicato,,Yes,No
+1922-7,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,34,35,Andante con moto,8,Eb2,Ab5,"f, mf, p, pp",Yes,Yes,"Legato, Pizzicato",,Yes,No
+1922-8,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,47,35,Andante con moto,10,C2,Bb6,"f, fz, p, pp",Yes,Yes,"Accent, Hat, Pizzicato, Staccato",,Yes,No
+1922-9,Dvorak,String Quartet No 10 in E-flat major,3,OP51,European Archive,59,35,Andante con moto,11,Eb2,F6,"f, fp, mf, p, pp",Yes,Yes,"Accent, Hat, Legato, Staccato",,Yes,No
+1923-0,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,7,126,Allegro assai,6,C2,Ab5,"fz, p",No,No,"Accent, Staccato",,No,No
+1923-1,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,7,126,Allegro assai,8,C2,Db5,"fp, p",Yes,No,"Accent, Staccato",,No,No
+1923-2,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,7,126,Allegro assai,8,Bb2,G5,"fz, p, pp",Yes,Yes,Accent,,No,No
+1923-3,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,9,126,Allegro assai,10,D2,Eb6,"mf, p",Yes,No,"Accent, Staccato",,No,No
+1923-4,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,9,126,Allegro assai,10,C2,Ab6,"f, ff, fz",Yes,No,"Accent, Marcato, Staccato",,Yes,No
+1923-5,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,7,126,Allegro assai,8,F4,Eb6,"fp, pp",No,No,,,No,No
+1923-6,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,5,126,Allegro assai,6,A2,G5,pp,No,No,"Accent, Pizzicato, Staccato",,No,No
+1923-7,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,6,126,Allegro assai,7,D2,D6,"f, fz, pp",Yes,No,"Accent, Hat, Pizzicato, Staccato",,No,No
+1923-8,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,7,126,Allegro assai,8,C2,G5,p,No,Yes,"Accent, Staccato",,Yes,No
+1923-9,Dvorak,String Quartet No 10 in E-flat major,4,OP51,European Archive,6,126,Allegro assai,7,E2,Ab6,"f, fz, p",Yes,No,"Accent, Staccato",,Yes,No
+1931-0,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,28,25,Lento,6,A2,A5,"mp, p",Yes,Yes,"Pizzicato, Staccato","Grace Note, Mordent",No,No
+1931-1,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,20,25,Lento,4,C2,A5,"fz, mf, p",No,Yes,"Pizzicato, Staccato",Grace Note,Yes,No
+1931-2,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,28,25,Lento,6,F2,C6,"f, p, pp",Yes,Yes,"Accent, Pizzicato",Grace Note,Yes,No
+1931-3,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,29,25,Lento,6,F2,G6,"f, mf, p, pp",Yes,Yes,"Accent, Pizzicato",,Yes,No
+1931-4,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,28,25,Lento,6,Bb2,D6,"f, fz, mf, mp, p",Yes,Yes,Pizzicato,,Yes,No
+1931-5,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,27,25,Lento,6,F2,D#6,pp,Yes,Yes,"Legato, Pizzicato, Staccato",,No,No
+1931-6,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,36,25,Lento,8,C2,C7,"f, ff, p, pp",Yes,Yes,"Accent, Pizzicato",Grace Note,Yes,No
+1931-7,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,38,25,Lento,8,Bb2,D6,"f, ff, fz, mf, p, pp",Yes,Yes,"Pizzicato, Staccato",,Yes,No
+1931-8,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,33,25,Lento,8,E2,F6,"f, mp",Yes,Yes,"Accent, Legato, Pizzicato, Staccato",,Yes,No
+1931-9,Dvorak,String Quartet No 12 in F major,2,OP96,Museopen,33,25,Lento,8,E2,F6,"f, mp",Yes,Yes,"Accent, Legato, Pizzicato, Staccato",,Yes,No
+1932-0,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,7,216,Molto vivace,8,C2,F5,"f, p",Yes,Yes,Accent,,No,No
+1932-1,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,6,216,Molto vivace,7,C3,F6,"f, fz, pp",Yes,Yes,Accent,,Yes,No
+1932-2,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,6,216,Molto vivace,7,F2,A6,"ff, mf, p, pp",No,Yes,Staccato,,Yes,No
+1932-3,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,5,216,Molto vivace,6,F2,A6,p,No,No,"Accent, Staccato",,No,No
+1932-4,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,5,216,Molto vivace,6,C2,F6,"ff, mf, p",Yes,No,"Accent, Legato",,Yes,No
+1932-5,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,6,216,Molto vivace,6,C2,F6,ff,No,No,"Accent, Legato, Staccato",,No,No
+1932-6,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,14,216,Molto vivace,8,F2,F5,"fz, mf, p, pp",No,Yes,Accent,"Grace Note, Trill",Yes,No
+1932-7,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,8,216,Molto vivace,10,Db3,C6,"fp, fz, mf, pp",No,No,Accent,,No,No
+1932-8,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,5,216,Molto vivace,6,Db3,Ab5,"f, fp, fz, mf",No,No,Accent,,No,No
+1932-9,Dvorak,String Quartet No 12 in F major,3,OP96,Museopen,5,216,Molto vivace,6,Db3,F5,"fp, mf, p",No,Yes,Accent,,No,No
+1933-0,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,D2,F5,"fp, p",No,No,"Accent, Pizzicato, Staccato",,No,No
+1933-1,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,D2,F5,"fp, p",Yes,No,"Accent, Pizzicato, Staccato",,No,No
+1933-2,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,C2,F5,"fz, mf",Yes,No,"Accent, Staccato",,No,No
+1933-3,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,F2,C6,"fp, p",No,Yes,"Accent, Staccato",,No,No
+1933-4,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,F2,D6,"fz, pp",Yes,Yes,"Accent, Staccato",,No,No
+1933-5,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,E2,C6,"ff, fz, pp",Yes,No,"Accent, Staccato",,Yes,No
+1933-6,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,7,152,Vivace ma non troppo,8,F2,D6,"fp, p, pp",No,Yes,"Accent, Staccato",,No,No
+1933-7,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,6,152,Vivace ma non troppo,8,C2,D6,"fz, mf, p, pp",Yes,Yes,"Accent, Staccato",Grace Note,No,No
+1933-8,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,7,152,Vivace ma non troppo,8,C2,Ab5,"ff, mp, pp",Yes,Yes,"Accent, Staccato",,Yes,No
+1933-9,Dvorak,String Quartet No 12 in F major,4,OP96,Museopen,7,152,Vivace ma non troppo,8,C2,Db6,pp,Yes,Yes,Staccato,,Yes,No
+2104-0,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,11,80,Allegro moderato,7,D2,D5,p,No,No,Staccato,,No,No
+2104-1,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,14,80,Allegro moderato,9,D2,G6,"mf, p",No,No,Staccato,"Grace Note, Trill",No,No
+2104-2,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,16,80,Allegro moderato,11,D2,D6,"f, p",Yes,No,Staccato,Grace Note,No,No
+2104-3,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,15,80,Allegro moderato,10,A2,A5,f,No,No,Staccato,Grace Note,No,No
+2104-4,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,20,80,Allegro moderato,12,G#2,E6,"f, p, sf",No,No,Staccato,,Yes,No
+2104-5,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,12,80,Allegro moderato,8,E2,B5,"f, p",No,No,Staccato,Grace Note,Yes,No
+2104-6,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,16,80,Allegro moderato,10,G2,C6,"mf, p",No,No,,"Grace Note, Trill",No,No
+2104-7,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,12,80,Allegro moderato,8,D2,Bb5,f,No,No,Staccato,,No,No
+2104-8,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,11,80,Allegro moderato,7,D2,F6,f,No,No,Staccato,,Yes,No
+2104-9,Haydn,Quartet No 53 in D major,1,OP64NO5,Museopen,14,80,Allegro moderato,8,A2,D6,"f, mf, p",No,No,,,Yes,No
+2105-0,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,33,60,Andante cantabile,10,E2,A5,"p, sf",No,No,,Grace Note,No,No
+2105-1,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,32,60,Andante cantabile,10,E2,C#6,sf,No,No,,Grace Note,No,No
+2105-2,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,38,60,Andante cantabile,11,A2,D6,"pp, sf",No,No,,"Fermata, Grace Note",No,Yes
+2105-3,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,29,60,Andante cantabile,9,C2,A5,p,No,No,,"Grace Note, Trill",No,Yes
+2105-4,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,23,60,Andante cantabile,7,A2,A5,"p, sf",No,No,,Grace Note,No,No
+2105-5,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,23,60,Andante cantabile,7,A2,A5,"p, sf",No,No,,Grace Note,No,No
+2105-6,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,20,60,Andante cantabile,6,E2,E6,"p, sf",No,No,Staccato,,No,No
+2105-7,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,29,60,Andante cantabile,8,E2,D6,"p, sf",No,No,Staccato,"Grace Note, Turn",No,No
+2105-8,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,33,60,Andante cantabile,10,E2,A5,"p, sf",No,No,,Grace Note,No,No
+2105-9,Haydn,Quartet No 53 in D major,2,OP64NO5,Museopen,32,60,Andante cantabile,10,E2,C#6,sf,No,No,,Grace Note,No,No
+2106-0,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,9,150,Allegretto,8,D2,E6,"f, sf",No,No,Staccato,Grace Note,Yes,No
+2106-1,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,12,150,Allegretto,10,F2,G#5,"f, p",No,No,Staccato,Grace Note,No,No
+2106-2,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,13,150,Allegretto,11,D3,D6,f,No,No,Staccato,"Grace Note, Trill",No,No
+2106-3,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,15,150,Allegretto,12,C2,D6,"f, p",No,No,Staccato,Grace Note,No,No
+2106-4,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,7,150,Allegretto,6,F3,E5,p,No,No,Staccato,,No,No
+2106-5,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,7,150,Allegretto,6,A2,Bb5,p,No,No,Staccato,,No,No
+2106-6,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,11,150,Allegretto,9,E2,Bb5,"f, p, sf",No,No,Staccato,,No,No
+2106-7,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,9,150,Allegretto,8,D2,E6,"f, sf",No,No,Staccato,Grace Note,Yes,No
+2106-8,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,12,150,Allegretto,10,F2,G#5,"f, p",No,No,Staccato,Grace Note,No,No
+2106-9,Haydn,Quartet No 53 in D major,3,OP64NO5,Museopen,13,150,Allegretto,11,D3,D6,f,No,No,Staccato,"Grace Note, Trill",No,No
+2140-0,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,14,92,Allegro,10,D2,Ab6,f,Yes,Yes,Staccato,,Yes,No
+2140-1,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,15,92,Allegro,11,C2,Ab6,"f, mf",Yes,No,Staccato,,Yes,No
+2140-2,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,13,92,Allegro,10,D3,G6,f,No,No,,,No,No
+2140-3,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,13,92,Allegro,10,C2,G5,f,Yes,Yes,Staccato,,No,No
+2140-4,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,14,92,Allegro,10,Eb2,Eb6,"f, p",Yes,Yes,Staccato,,No,No
+2140-5,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,15,92,Allegro,10,Eb2,Eb6,f,Yes,No,,,No,No
+2140-6,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,19,92,Allegro,11,C2,Ab6,"f, p, sf",Yes,Yes,Staccato,,No,No
+2140-7,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,16,92,Allegro,8,E2,Eb5,p,Yes,Yes,,,No,No
+2140-8,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,13,92,Allegro,7,C2,B5,p,No,Yes,Accent,,No,No
+2140-9,Brahms,String Quartet in C minor,4,OP51NO1,European Archive,11,92,Allegro,8,C2,Ab6,"f, p",Yes,Yes,Staccato,,No,No
+2177-0,Ravel,String Quartet in F,1,35,Musicians from Marlboro,10,125,Allegro moderato,5,F2,Eb6,"p, pp",Yes,Yes,,,No,No
+2177-1,Ravel,String Quartet in F,1,35,Musicians from Marlboro,12,125,Allegro moderato,6,G2,D6,pp,Yes,Yes,Legato,,Yes,No
+2177-2,Ravel,String Quartet in F,1,35,Musicians from Marlboro,12,125,Allegro moderato,6,G2,D6,pp,Yes,Yes,Legato,,Yes,No
+2177-3,Ravel,String Quartet in F,1,35,Musicians from Marlboro,11,125,Allegro moderato,6,F2,D6,"f, p, pp",Yes,Yes,"Accent, Legato",,Yes,No
+2177-4,Ravel,String Quartet in F,1,35,Musicians from Marlboro,12,125,Allegro moderato,6,G2,F6,"mf, mp, p",Yes,Yes,"Accent, Dotted Legato, Legato, Pizzicato",,Yes,No
+2177-5,Ravel,String Quartet in F,1,35,Musicians from Marlboro,11,125,Allegro moderato,6,C2,D6,"mf, p, pp",No,No,Dotted Legato,,Yes,No
+2177-6,Ravel,String Quartet in F,1,35,Musicians from Marlboro,15,125,Allegro moderato,7,C#2,E6,"mf, p, pp",Yes,Yes,,,Yes,No
+2177-7,Ravel,String Quartet in F,1,35,Musicians from Marlboro,14,125,Allegro moderato,7,A2,C#5,"mf, mp, p",Yes,Yes,,,No,No
+2177-8,Ravel,String Quartet in F,1,35,Musicians from Marlboro,13,125,Allegro moderato,5,D2,F6,,No,No,Pizzicato,,No,No
+2177-9,Ravel,String Quartet in F,1,35,Musicians from Marlboro,11,125,Allegro moderato,4,D2,A5,"mp, p, pp",Yes,Yes,"Accent, Pizzicato",,Yes,No
+2178-0,Ravel,String Quartet in F,2,35,Musicians from Marlboro,7,150,Assez vif très rythmé,6,A2,E5,f,No,Yes,"Accent, Pizzicato",,No,No
+2178-1,Ravel,String Quartet in F,2,35,Musicians from Marlboro,7,150,Assez vif très rythmé,6,C2,E6,"f, ff, mp, pp",Yes,Yes,Pizzicato,Trill,Yes,No
+2178-2,Ravel,String Quartet in F,2,35,Musicians from Marlboro,7,150,Assez vif très rythmé,8,C#2,F#6,"pp, ppp",No,No,"Accent, Pizzicato",,Yes,No
+2178-3,Ravel,String Quartet in F,2,35,Musicians from Marlboro,9,150,Assez vif très rythmé,5,A2,C#6,"f, ff, mf",Yes,Yes,,,No,No
+2178-4,Ravel,String Quartet in F,2,35,Musicians from Marlboro,6,150,Assez vif très rythmé,7,F2,A5,"f, ff, mp",No,Yes,"Accent, Pizzicato",,Yes,No
+2178-5,Ravel,String Quartet in F,2,35,Musicians from Marlboro,8,150,Assez vif très rythmé,8,C2,F#6,"f, ff, mp, pp, ppp",Yes,Yes,"Accent, Pizzicato",Trill,Yes,No
+2178-6,Ravel,String Quartet in F,2,35,Musicians from Marlboro,10,150,Assez vif très rythmé,6,C2,A#5,"pp, ppp",No,No,"Accent, Pizzicato",,Yes,No
+2178-7,Ravel,String Quartet in F,2,35,Musicians from Marlboro,17,50,Lento,5,B3,F4,pp,Yes,Yes,Legato,,No,No
+2178-8,Ravel,String Quartet in F,2,35,Musicians from Marlboro,21,50,Lento,5,Eb2,G5,"mf, p, pp",Yes,Yes,,,Yes,Yes
+2178-9,Ravel,String Quartet in F,2,35,Musicians from Marlboro,17,50,Lento,8,C#2,Ab5,"mf, p, pp",Yes,Yes,"Legato, Pizzicato",,No,Yes
+2179-0,Ravel,String Quartet in F,3,35,Musicians from Marlboro,31,50,Trés lent,5,Cb3,Bb4,p,Yes,Yes,,,No,No
+2179-1,Ravel,String Quartet in F,3,35,Musicians from Marlboro,20,50,Trés lent,5,Gb2,Ab5,"mf, p, pp",Yes,Yes,Staccato,,No,Yes
+2179-2,Ravel,String Quartet in F,3,35,Musicians from Marlboro,30,50,Trés lent,8,Db2,F6,"p, pp",Yes,Yes,,,Yes,No
+2179-3,Ravel,String Quartet in F,3,35,Musicians from Marlboro,31,50,Trés lent,7,Db3,Bb6,"f, p, pp",No,Yes,Accent,,Yes,No
+2179-4,Ravel,String Quartet in F,3,35,Musicians from Marlboro,17,50,Trés lent,3,Gb2,Gb4,ppp,No,No,,,Yes,No
+2179-5,Ravel,String Quartet in F,3,35,Musicians from Marlboro,14,70,Pas trop lent,4,A2,E5,"mf, mp, p, pp",Yes,Yes,"Accent, Pizzicato",,Yes,No
+2179-6,Ravel,String Quartet in F,3,35,Musicians from Marlboro,15,70,Pas trop lent,6,Eb2,Bb4,p,Yes,Yes,"Legato, Pizzicato",,No,No
+2179-7,Ravel,String Quartet in F,3,35,Musicians from Marlboro,20,70,Pas trop lent,3,Eb2,Ab6,pp,No,No,"Accent, Legato",,Yes,No
+2179-8,Ravel,String Quartet in F,3,35,Musicians from Marlboro,31,50,Trés lent,5,Cb3,Bb4,p,Yes,Yes,,,No,No
+2179-9,Ravel,String Quartet in F,3,35,Musicians from Marlboro,20,50,Trés lent,5,Gb2,Ab5,"mf, p, pp",Yes,Yes,Staccato,,No,Yes
+2180-0,Ravel,String Quartet in F,4,35,Musicians from Marlboro,4,84,Vif et agité,5,G2,B5,"f, ff, mf",Yes,No,"Accent, Pizzicato",,Yes,No
+2180-1,Ravel,String Quartet in F,4,35,Musicians from Marlboro,7,84,Vif et agité,9,G3,D#6,"ff, p",Yes,No,Accent,,Yes,No
+2180-2,Ravel,String Quartet in F,4,35,Musicians from Marlboro,9,84,Vif et agité,9,F2,G5,p,Yes,Yes,Accent,,Yes,No
+2180-3,Ravel,String Quartet in F,4,35,Musicians from Marlboro,10,84,Vif et agité,9,F2,F6,"p, pp",Yes,Yes,"Accent, Legato",,Yes,No
+2180-4,Ravel,String Quartet in F,4,35,Musicians from Marlboro,8,84,Vif et agité,6,Db2,Bb5,"p, pp",Yes,Yes,"Dotted Legato, Legato",,No,No
+2180-5,Ravel,String Quartet in F,4,35,Musicians from Marlboro,7,84,Vif et agité,4,Ab2,Db5,p,Yes,Yes,Accent,,No,No
+2180-6,Ravel,String Quartet in F,4,35,Musicians from Marlboro,4,84,Vif et agité,5,G2,B5,"f, ff, mf",Yes,No,"Accent, Pizzicato",,Yes,No
+2180-7,Ravel,String Quartet in F,4,35,Musicians from Marlboro,7,84,Vif et agité,9,G3,D#6,"ff, p",Yes,No,Accent,,Yes,No
+2180-8,Ravel,String Quartet in F,4,35,Musicians from Marlboro,9,84,Vif et agité,9,F2,G5,p,Yes,Yes,Accent,,Yes,No
+2180-9,Ravel,String Quartet in F,4,35,Musicians from Marlboro,10,84,Vif et agité,9,F2,F6,"p, pp",Yes,Yes,"Accent, Legato",,Yes,No
+2313-0,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,46,45,Assai sostenuto,8,D#2,C6,pp,Yes,Yes,,,Yes,No
+2313-1,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,17,130,Allegro,8,G#2,C6,"f, p",Yes,Yes,Staccato,,Yes,Yes
+2313-2,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,15,130,Allegro,6,E2,C6,"f, fp, p",Yes,Yes,Staccato,,Yes,No
+2313-3,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,13,130,Allegro,7,Db2,Bb5,"f, p",Yes,Yes,,,No,Yes
+2313-4,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,14,130,Allegro,7,C2,Bb5,"f, p",No,Yes,,,Yes,No
+2313-5,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,9,130,Allegro,6,A2,F6,"f, p",Yes,Yes,Staccato,,No,No
+2313-6,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,13,130,Allegro,6,E2,Eb6,p,Yes,No,Staccato,,No,No
+2313-7,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,10,130,Allegro,5,C2,Eb6,p,No,Yes,,,No,No
+2313-8,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,8,130,Allegro,4,F2,G6,"f, ff",Yes,No,Staccato,,No,No
+2313-9,Beethoven,String Quartet No 15 in A minor,1,OP132,European Archive,8,130,Allegro,4,C2,G6,p,Yes,No,,,No,No
+2314-0,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,12,155,Allegro ma non troppo,10,G#2,E5,p,No,No,Staccato,,No,No
+2314-1,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,12,155,Allegro ma non troppo,10,D#2,C#6,pp,Yes,Yes,Staccato,,No,No
+2314-2,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,12,155,Allegro ma non troppo,10,C2,D6,"f, p",Yes,Yes,Staccato,,No,Yes
+2314-3,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,11,155,Allegro ma non troppo,9,F2,C6,"f, pp",Yes,No,Staccato,,Yes,No
+2314-4,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,12,155,Allegro ma non troppo,10,F#2,E6,p,Yes,No,Staccato,,Yes,Yes
+2314-5,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,10,155,Allegro ma non troppo,9,C2,D6,"f, p",Yes,No,Staccato,,No,Yes
+2314-6,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,10,155,Allegro ma non troppo,9,C2,D6,"f, p",Yes,No,Staccato,,No,Yes
+2314-7,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,12,155,Allegro ma non troppo,10,C#2,E6,p,Yes,Yes,Staccato,,No,No
+2314-8,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,11,155,Allegro ma non troppo,9,B2,E6,pp,No,No,Staccato,𝄪,Yes,No
+2314-9,Beethoven,String Quartet No 15 in A minor,2,OP132,European Archive,11,155,Allegro ma non troppo,9,A#2,B5,"p, pp",Yes,No,Staccato,,Yes,No
+2315-0,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,22,30,Molto adagio,3,B2,A5,p,No,No,,,Yes,No
+2315-1,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,22,30,Molto adagio,3,C2,G4,p,No,No,,,Yes,No
+2315-2,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,22,30,Molto adagio,3,G2,G5,"f, p",No,Yes,,,Yes,No
+2315-3,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,22,30,Molto adagio,3,F2,A5,p,Yes,No,,,Yes,No
+2315-4,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,10,45,Andante,5,D2,B5,"f, p, sf",No,No,Staccato,Trill,Yes,No
+2315-5,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,14,45,Andante,7,D2,A6,"f, p",Yes,Yes,Staccato,Trill,Yes,No
+2315-6,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,15,45,Andante,7,G#2,A6,"f, p, sf",Yes,Yes,Staccato,"Grace Note, Trill",No,No
+2315-7,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,12,45,Andante,5,C#2,G6,"p, rf",No,Yes,Staccato,Trill,Yes,No
+2315-8,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,18,45,Andante,7,C#2,A6,"p, rf",Yes,Yes,,,Yes,No
+2315-9,Beethoven,String Quartet No 15 in A minor,3,OP132,European Archive,15,45,Andante,6,D2,D6,p,Yes,Yes,,"Grace Note, Trill",Yes,No
+2365-0,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,12,150,Allegro,10,F2,F5,p,No,No,Staccato,,No,No
+2365-1,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,9,150,Allegro,8,Eb2,F6,"f, p",Yes,No,Staccato,,Yes,No
+2365-2,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,9,150,Allegro,8,D2,C6,"f, p, sf",No,No,Staccato,,Yes,No
+2365-3,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,10,150,Allegro,8,G2,A5,p,Yes,No,Staccato,,Yes,No
+2365-4,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,12,150,Allegro,9,G2,D6,p,Yes,Yes,,,Yes,No
+2365-5,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,10,150,Allegro,8,C3,A6,p,Yes,Yes,Staccato,,Yes,No
+2365-6,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,11,150,Allegro,9,D2,G6,"f, p",Yes,Yes,Staccato,"Grace Note, Trill",Yes,No
+2365-7,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,11,150,Allegro,8,G2,G6,"f, p, pp",No,No,Staccato,"Grace Note, Trill",Yes,Yes
+2365-8,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,12,150,Allegro,10,C2,E6,"f, p",Yes,No,Staccato,,Yes,No
+2365-9,Beethoven,String Quartet No 12 in E-flat major,1,OP127,Pascal String Quartet,14,150,Allegro,11,D2,D6,"f, p",Yes,Yes,Staccato,,No,No
+2366-0,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,29,35,Adagio ma non troppo e molto cantabile,4,Eb2,F5,"p, pp",Yes,No,,,Yes,No
+2366-1,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,35,35,Adagio ma non troppo e molto cantabile,5,C3,Db6,p,No,No,Accent,Trill,Yes,Yes
+2366-2,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,37,35,Adagio ma non troppo e molto cantabile,5,C2,Bb5,"p, pp",Yes,Yes,Staccato,Grace Note,Yes,Yes
+2366-3,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,42,35,Adagio ma non troppo e molto cantabile,5,Eb2,Eb6,p,Yes,Yes,Staccato,"Grace Note, Trill",Yes,No
+2366-4,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,37,35,Adagio ma non troppo e molto cantabile,4,Eb2,Ab6,sf,Yes,Yes,Staccato,,Yes,No
+2366-5,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,29,35,Adagio ma non troppo e molto cantabile,3,F2,Eb6,"p, sf",Yes,Yes,Staccato,𝄫,Yes,Yes
+2366-6,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,22,35,Adagio ma non troppo e molto cantabile,2,C2,C7,p,Yes,Yes,,,No,Yes
+2366-7,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,51,35,Adagio molto espressivo,7,C#2,F#6,p,Yes,Yes,Staccato,,Yes,Yes
+2366-8,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,55,35,Adagio molto espressivo,7,C2,G#6,"f, p",Yes,Yes,,,Yes,Yes
+2366-9,Beethoven,String Quartet No 12 in E-flat major,2,OP127,Pascal String Quartet,20,35,Adagio molto espressivo,3,G3,Ab6,p,Yes,Yes,Staccato,"Grace Note, Trill",Yes,No
+2368-0,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,11,90,Allegro,8,Eb2,Ab5,"f, p, sf",Yes,Yes,Staccato,,Yes,No
+2368-1,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,12,90,Allegro,10,C2,C5,p,Yes,Yes,,,No,No
+2368-2,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,11,90,Allegro,9,C2,G5,"f, p",Yes,Yes,,Grace Note,No,No
+2368-3,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,10,90,Allegro,9,Eb2,Ab6,"f, p",Yes,Yes,Staccato,Grace Note,Yes,No
+2368-4,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,9,90,Allegro,8,C2,G6,pp,No,No,,,No,No
+2368-5,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,10,90,Allegro,8,F3,D6,pp,Yes,No,Staccato,,No,No
+2368-6,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,12,90,Allegro,10,F2,G6,f,Yes,No,Staccato,Grace Note,No,No
+2368-7,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,11,90,Allegro,10,Bb2,A5,"f, p",No,No,Staccato,Grace Note,Yes,No
+2368-8,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,9,90,Allegro,8,C2,C6,ff,No,No,Staccato,,Yes,No
+2368-9,Beethoven,String Quartet No 12 in E-flat major,4,OP127,Pascal String Quartet,10,90,Allegro,9,Bb2,Eb6,"f, p",No,No,Staccato,,No,Yes
+2376-0,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,17,75,Allegro,9,C2,B5,"f, pp, sf",No,No,Staccato,,Yes,No
+2376-1,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,13,75,Allegro,7,F2,A5,"p, sf",Yes,Yes,Staccato,,No,No
+2376-2,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,12,75,Allegro,7,D#2,C6,"f, p",Yes,No,Staccato,,Yes,No
+2376-3,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,9,75,Allegro,6,F2,F6,"ff, sf",Yes,No,Staccato,"Grace Note, Trill",Yes,No
+2376-4,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,10,75,Allegro,6,C#2,D6,"f, p, sf",No,Yes,Staccato,Trill,Yes,No
+2376-5,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,9,75,Allegro,5,F#2,G6,p,No,No,Staccato,Trill,No,No
+2376-6,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,9,75,Allegro,5,G2,A6,p,Yes,No,Staccato,Trill,No,Yes
+2376-7,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,14,75,Allegro,7,D2,A5,"f, p, sf",Yes,Yes,"Accent, Staccato",,Yes,No
+2376-8,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,14,75,Allegro,7,C2,G6,"f, p, pp, sf",No,Yes,Staccato,,Yes,No
+2376-9,Beethoven,String Quartet No 8 in E minor,1,OP59NO2,European Archive,10,75,Allegro,6,D2,D6,"f, sf",No,No,Staccato,,Yes,No
+2377-0,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,16,45,Molto adagio,3,E2,G#5,p,No,No,Staccato,,No,No
+2377-1,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,17,45,Molto adagio,3,B2,A5,"f, p",Yes,Yes,Staccato,,No,No
+2377-2,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,20,45,Molto adagio,4,B2,F#5,p,No,No,,,No,No
+2377-3,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,17,45,Molto adagio,3,A#2,G#5,"f, p",Yes,No,,,Yes,No
+2377-4,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,13,45,Molto adagio,3,B#2,E6,"f, p",Yes,No,,,Yes,No
+2377-5,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,14,45,Molto adagio,3,B2,B5,p,No,No,Staccato,,No,No
+2377-6,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,25,45,Molto adagio,5,B2,D#6,p,No,No,Staccato,"Grace Note, Trill, 𝄪",No,No
+2377-7,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,13,45,Molto adagio,3,C2,F6,"p, pp",No,No,Staccato,,Yes,No
+2377-8,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,13,45,Molto adagio,3,B2,G#5,pp,Yes,No,Staccato,,No,No
+2377-9,Beethoven,String Quartet No 8 in E minor,2,OP59NO2,European Archive,12,45,Molto adagio,3,A2,F#6,"f, ff, p",No,No,Staccato,,No,No
+2379-0,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,6,150,Presto,8,C2,E6,fp,Yes,No,Staccato,Grace Note,No,No
+2379-1,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,7,150,Presto,9,C2,E6,fp,Yes,No,Staccato,Grace Note,No,No
+2379-2,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,8,150,Presto,10,C2,E6,fp,Yes,No,Staccato,,Yes,No
+2379-3,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,8,150,Presto,10,C2,E6,fp,Yes,No,Staccato,Grace Note,Yes,No
+2379-4,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,7,150,Presto,9,C2,E6,p,Yes,No,Staccato,Grace Note,Yes,No
+2379-5,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,7,150,Presto,9,E2,E#6,f,No,No,Staccato,,Yes,No
+2379-6,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,8,150,Presto,10,C3,E6,f,No,No,Staccato,Trill,No,No
+2379-7,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,12,150,Presto,13,C2,G6,"p, sf",Yes,No,,,No,No
+2379-8,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,10,150,Presto,12,E3,C#6,"p, pp",No,No,Staccato,,No,No
+2379-9,Beethoven,String Quartet No 8 in E minor,4,OP59NO2,European Archive,7,150,Presto,8,B2,F5,pp,No,No,Staccato,,No,No
+2381-0,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,31,40,Adagio ma non troppo,6,C2,G5,"f, p",Yes,Yes,,,Yes,No
+2381-1,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,29,40,Adagio ma non troppo,6,D2,C6,p,Yes,No,Staccato,,No,Yes
+2381-2,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,5,140,Allegro,3,A2,Eb6,"f, p",Yes,No,Staccato,,No,No
+2381-3,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,22,40,Adagio ma non troppo,5,D2,F6,"f, p",Yes,Yes,Staccato,,Yes,No
+2381-4,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,11,140,Allegro,6,E2,F6,"f, p, sf",Yes,No,,,No,No
+2381-5,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,15,140,Allegro,8,D2,F6,"f, p, sf",Yes,Yes,Staccato,Grace Note,No,No
+2381-6,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,16,140,Allegro,8,D2,F6,"f, p, sf",No,Yes,Staccato,Grace Note,Yes,Yes
+2381-7,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,15,140,Allegro,7,Db2,Gb5,"p, pp",Yes,No,Staccato,,No,No
+2381-8,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,10,140,Allegro,5,Db2,Cb5,pp,Yes,No,,,No,No
+2381-9,Beethoven,String Quartet No 13 in B-flat major,1,OP130,European Archive,9,140,Allegro,5,Gb2,Cb5,"p, pp",Yes,No,Staccato,,No,No
+2382-0,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,Db2,Gb4,pp,No,No,Staccato,,No,No
+2382-1,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,6,88,Presto,8,Ab2,Ab4,f,Yes,Yes,Staccato,,No,No
+2382-2,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,F2,A6,"f, sf",No,No,Staccato,Grace Note,No,No
+2382-3,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,6,88,Presto,9,D2,Bb5,"f, p, pp",Yes,No,,Grace Note,Yes,No
+2382-4,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,D2,C6,"f, pp, sf",Yes,No,,Grace Note,No,No
+2382-5,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,4,88,Presto,6,Eb2,Gb4,pp,No,No,Staccato,,No,No
+2382-6,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,F2,Ab5,pp,No,No,Staccato,Trill,No,No
+2382-7,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,Ab2,Gb6,"p, pp",Yes,Yes,Staccato,Trill,No,No
+2382-8,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,5,88,Presto,7,Eb2,Gb6,"f, pp",Yes,Yes,"Pizzicato, Staccato",Trill,Yes,No
+2382-9,Beethoven,String Quartet No 13 in B-flat major,2,OP130,European Archive,7,88,Presto,8,F2,F5,"f, pp",No,No,"Pizzicato, Staccato",,Yes,No
+2383-0,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,19,55,Adagio con moto ma non troppo,4,C2,Bb5,p,No,Yes,Staccato,𝄫,No,No
+2383-1,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,13,55,Adagio con moto ma non troppo,3,C2,F6,p,Yes,Yes,Staccato,,Yes,No
+2383-2,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,13,55,Adagio con moto ma non troppo,3,C2,F6,"p, pp",Yes,No,"Pizzicato, Staccato",,Yes,No
+2383-3,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,21,55,Adagio con moto ma non troppo,5,C2,Eb6,"fp, p, pp",Yes,Yes,Staccato,Grace Note,No,Yes
+2383-4,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,21,55,Adagio con moto ma non troppo,5,C2,C6,"fp, p, pp",Yes,Yes,"Accent, Staccato",Grace Note,Yes,No
+2383-5,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,17,55,Adagio con moto ma non troppo,4,C2,Eb6,"f, mf, p, ppp",Yes,Yes,Staccato,Grace Note,Yes,No
+2383-6,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,17,55,Adagio con moto ma non troppo,4,Db2,Eb6,"f, mf, p, sf",No,Yes,"Accent, Staccato","Grace Note, Trill",Yes,No
+2383-7,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,17,55,Adagio con moto ma non troppo,4,Db2,Gb6,"p, pp",Yes,No,Staccato,"Grace Note, Trill",Yes,No
+2383-8,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,14,55,Adagio con moto ma non troppo,3,C2,F6,p,No,Yes,Staccato,,No,No
+2383-9,Beethoven,String Quartet No 13 in B-flat major,3,OP130,European Archive,17,55,Adagio con moto ma non troppo,4,Db2,F6,,Yes,Yes,Staccato,,No,No
+2384-0,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,10,50,Allegro assai,8,C2,D6,,Yes,Yes,,,Yes,No
+2384-1,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,12,50,Allegro assai,10,C2,G6,,Yes,No,,,No,No
+2384-2,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,G2,G6,"f, p",Yes,No,Staccato,,No,No
+2384-3,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,C2,G6,"f, p",Yes,Yes,Staccato,,Yes,Yes
+2384-4,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,G#3,G6,,Yes,Yes,Staccato,,No,Yes
+2384-5,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,10,50,Allegro assai,9,C2,E6,p,No,No,Staccato,,No,Yes
+2384-6,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,10,50,Allegro assai,8,C2,E6,p,Yes,Yes,Staccato,,No,No
+2384-7,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,C2,E6,,Yes,Yes,,,No,No
+2384-8,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,C2,D6,p,Yes,Yes,,,No,No
+2384-9,Beethoven,String Quartet No 13 in B-flat major,4,OP130,European Archive,9,50,Allegro assai,8,C2,G6,p,Yes,No,Staccato,,Yes,No
+2403-0,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,8,120,Allegro,8,E2,C6,,No,No,Staccato,,No,No
+2403-1,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,8,120,Allegro,8,E2,F6,p,Yes,No,Staccato,,No,No
+2403-2,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,9,120,Allegro,9,C2,Bb5,"f, p, sf",No,No,Staccato,"Grace Note, Mordent",No,No
+2403-3,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,8,120,Allegro,8,D2,A5,p,Yes,No,Staccato,,Yes,No
+2403-4,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,8,120,Allegro,9,D2,D6,p,Yes,No,Staccato,,Yes,No
+2403-5,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,6,120,Allegro,7,G2,A5,p,Yes,No,Staccato,,No,No
+2403-6,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,6,120,Allegro,7,G2,D6,p,Yes,No,Staccato,,No,No
+2403-7,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,7,120,Allegro,7,F2,E6,"p, sf",Yes,No,Staccato,,No,No
+2403-8,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,6,120,Allegro,6,C2,A5,p,Yes,No,Staccato,Trill,No,No
+2403-9,Beethoven,String Quartet No 1 in F Major,4,OP18NO1,European Archive,7,120,Allegro,7,C2,Bb5,"f, p",No,No,,,No,No
+2431-0,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,12,85,Allegretto,7,C2,G5,"p, pp, sf",Yes,Yes,"Pizzicato, Staccato",Grace Note,Yes,No
+2431-1,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,15,85,Allegretto,9,C2,D6,p,Yes,Yes,"Pizzicato, Staccato",,Yes,No
+2431-2,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,12,85,Allegretto,8,C2,D6,"f, p",No,No,Staccato,,Yes,Yes
+2431-3,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,12,85,Allegretto,8,D3,Bb5,p,No,No,Staccato,,Yes,No
+2431-4,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,10,85,Allegretto,6,C2,B5,p,Yes,Yes,Staccato,,No,No
+2431-5,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,8,85,Allegretto,5,C2,C7,"f, p, sf",Yes,Yes,Staccato,,No,No
+2431-6,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,11,85,Allegretto,7,E2,F6,"p, pp",Yes,Yes,Staccato,,No,No
+2431-7,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,9,85,Allegretto,6,G2,A5,"p, pp",Yes,No,Staccato,,Yes,No
+2431-8,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,18,85,Allegretto,10,C2,E6,"f, p",Yes,Yes,Staccato,Grace Note,Yes,No
+2431-9,Beethoven,String Quartet No 16 in F major,1,OP135,European Archive,13,85,Allegretto,8,C2,Eb6,p,No,No,,Grace Note,No,No
+2432-0,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,4,120,Vivace,8,C2,C6,"p, pp",No,No,Staccato,,No,No
+2432-1,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,4,120,Vivace,8,Eb2,F6,pp,No,No,"Accent, Staccato",,No,No
+2432-2,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,4,120,Vivace,8,C2,E4,"p, pp",No,Yes,,,No,No
+2432-3,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,5,120,Vivace,10,C2,C6,"f, pp",Yes,No,Staccato,,Yes,No
+2432-4,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,6,120,Vivace,11,D2,F6,"f, pp",No,Yes,Staccato,,Yes,No
+2432-5,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,5,120,Vivace,11,F2,C6,pp,Yes,No,Staccato,,Yes,No
+2432-6,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,5,120,Vivace,10,C2,A5,"f, p, pp",Yes,Yes,"Accent, Staccato",,Yes,No
+2432-7,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,5,120,Vivace,10,C2,A5,"f, p, pp",Yes,Yes,"Accent, Staccato",,Yes,No
+2432-8,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,5,120,Vivace,11,C2,Bb6,p,Yes,Yes,Staccato,,Yes,No
+2432-9,Beethoven,String Quartet No 16 in F major,2,OP135,European Archive,4,120,Vivace,8,F2,Bb5,p,Yes,No,Staccato,,No,No
+2433-0,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,34,45,Lento assai,5,C2,F4,p,Yes,No,,,Yes,No
+2433-1,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,32,45,Lento assai,4,C2,Bb4,p,Yes,No,,,Yes,No
+2433-2,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,30,45,Lento assai,4,F2,F5,p,Yes,Yes,,,No,No
+2433-3,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,30,45,Lento assai,4,Db2,Gb5,p,No,No,,,No,No
+2433-4,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,24,45,Lento assai,3,Bb2,Bb5,p,No,No,,,No,No
+2433-5,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,25,45,Lento assai,3,F2,F6,p,Yes,Yes,,,No,No
+2433-6,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,34,45,Lento assai,5,C2,F4,p,Yes,No,,,Yes,No
+2433-7,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,32,45,Lento assai,4,C2,Bb4,p,Yes,No,,,Yes,No
+2433-8,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,30,45,Lento assai,4,F2,F5,p,Yes,Yes,,,No,No
+2433-9,Beethoven,String Quartet No 16 in F major,3,OP135,European Archive,30,45,Lento assai,4,Db2,Gb5,p,No,No,,,No,No
+2451-0,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,21,45,Adagio ma non troppo,4,Ab2,C6,p,No,No,Staccato,,Yes,No
+2451-1,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,21,45,Adagio ma non troppo,4,Eb2,C6,p,No,No,Staccato,,Yes,No
+2451-2,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,22,45,Adagio ma non troppo,4,Bb2,C6,p,Yes,Yes,Staccato,Turn,No,No
+2451-3,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,21,45,Adagio ma non troppo,4,F2,F5,pp,Yes,No,,,No,No
+2451-4,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,20,45,Adagio ma non troppo,4,Eb2,Gb6,"p, pp",Yes,No,,,No,No
+2451-5,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,20,45,Adagio ma non troppo,4,A2,Fb6,pp,No,No,,,Yes,No
+2451-6,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,22,45,Adagio ma non troppo,4,Ab2,C6,p,No,No,Staccato,,Yes,No
+2451-7,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,18,45,Adagio ma non troppo,3,Bb2,C6,p,Yes,Yes,Staccato,Turn,No,No
+2451-8,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,23,45,Adagio ma non troppo,3,Ab3,Ab5,"p, sf",Yes,Yes,Staccato,,No,No
+2451-9,Beethoven,String Quartet No 6 in B-flat major,2,OP18NO6,Museopen,22,45,Adagio ma non troppo,4,C2,G5,"p, pp, sf",Yes,No,,,Yes,No
+2480-0,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,8,90,Allegro,7,A2,F#6,"f, p, sf, sfp",No,No,Staccato,Grace Note,Yes,No
+2480-1,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,9,90,Allegro,8,A2,F#6,p,No,No,Staccato,,No,No
+2480-2,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,9,90,Allegro,8,E2,G#6,"f, p",Yes,No,Staccato,Trill,No,No
+2480-3,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,12,90,Allegro,9,D2,E6,"f, p, sf",No,No,Staccato,"Grace Note, Trill",No,No
+2480-4,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,12,90,Allegro,9,B2,C#6,"f, p, pp, sf",Yes,Yes,Staccato,Trill,No,Yes
+2480-5,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,11,90,Allegro,9,E2,A5,"f, p, pp",No,No,Staccato,𝄪,Yes,No
+2480-6,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,11,90,Allegro,9,F#2,A6,"f, sf",No,No,Staccato,,No,No
+2480-7,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,10,90,Allegro,8,G#2,C#7,"p, sf",No,No,Staccato,,No,No
+2480-8,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,10,90,Allegro,8,E2,D6,"f, p, sfp",Yes,No,Staccato,,No,No
+2480-9,Beethoven,String Quartet No 5 in A major,1,OP18NO5,Pascal String Quartet,12,90,Allegro,9,C#3,F#6,"f, pp, sf",Yes,No,Staccato,,No,No
+2481-0,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,16,140,Allegro,12,C#4,B5,p,No,No,Staccato,,No,No
+2481-1,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,16,140,Allegro,12,E2,E6,p,No,No,Staccato,,No,No
+2481-2,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,12,140,Allegro,10,E3,E6,p,No,No,Staccato,,No,No
+2481-3,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,13,140,Allegro,10,C#2,C#6,"ff, p",Yes,No,Staccato,"Grace Note, Turn, 𝄪",No,No
+2481-4,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,15,140,Allegro,13,D3,B5,p,No,No,Staccato,Grace Note,No,No
+2481-5,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,14,140,Allegro,11,D2,D6,p,Yes,No,,,No,No
+2481-6,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,16,140,Allegro,12,A2,E6,"f, p, sfp",No,No,Staccato,Grace Note,Yes,No
+2481-7,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,11,140,Allegro,8,E2,E5,"p, sf",No,No,,Grace Note,Yes,No
+2481-8,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,11,140,Allegro,8,E2,E6,,Yes,No,,,No,No
+2481-9,Beethoven,String Quartet No 5 in A major,2,OP18NO5,Pascal String Quartet,10,140,Allegro,8,C#2,E6,"p, sf",No,No,,Grace Note,Yes,No
+2482-0,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,22,45,Andante cantabile,8,E2,F#5,p,No,No,Staccato,Grace Note,No,No
+2482-1,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,21,45,Andante cantabile,8,D2,F#6,p,Yes,No,Staccato,,Yes,No
+2482-2,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,16,60,Andante cantabile,8,E2,A6,"p, sf",No,No,Staccato,Grace Note,Yes,No
+2482-3,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,17,60,Andante cantabile,8,D2,G6,"p, sf",Yes,No,Staccato,Grace Note,Yes,No
+2482-4,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,15,65,Andante cantabile,8,E2,E6,pp,No,No,Staccato,Grace Note,No,No
+2482-5,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,15,65,Andante cantabile,8,G2,G6,pp,Yes,Yes,Staccato,,No,No
+2482-6,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,17,60,Andante cantabile,8,A2,E6,,Yes,No,,,No,No
+2482-7,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,21,50,Andante cantabile,8,C#2,F#5,pp,No,No,,,Yes,No
+2482-8,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,17,60,Andante cantabile,8,C#2,A6,"f, sf",No,No,Staccato,"Grace Note, Trill",No,No
+2482-9,Beethoven,String Quartet No 5 in A major,3,OP18NO5,Pascal String Quartet,18,55,Andante cantabile,8,C2,A5,"p, pp",Yes,No,"Pizzicato, Staccato",,Yes,No
+2483-0,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,6,145,Allegro,6,E2,C#6,p,No,No,Staccato,Fermata,No,No
+2483-1,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,6,145,Allegro,7,E2,F#5,p,No,No,Staccato,,No,No
+2483-2,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,7,145,Allegro,8,C3,E6,p,No,No,Staccato,,No,No
+2483-3,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,6,145,Allegro,7,B2,C#6,p,No,No,Staccato,,No,No
+2483-4,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,6,145,Allegro,7,B2,C#6,"f, p",Yes,No,Staccato,,No,No
+2483-5,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,12,145,Allegro,13,E2,C#6,"p, pp",Yes,No,Staccato,,No,No
+2483-6,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,9,145,Allegro,10,E2,A5,"p, sf",Yes,No,,,No,No
+2483-7,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,9,145,Allegro,10,A2,F#6,"f, p, pp, sf",No,Yes,Staccato,,No,No
+2483-8,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,7,145,Allegro,8,G#2,C#6,"p, pp",No,No,Staccato,,No,No
+2483-9,Beethoven,String Quartet No 5 in A major,4,OP18NO5,Pascal String Quartet,7,145,Allegro,8,A2,C#6,p,No,No,Staccato,,No,No
+2494-0,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,9,145,Allegro con brio,5,C2,C6,f,No,No,Staccato,,No,No
+2494-1,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,15,145,Allegro con brio,7,C2,Db6,"p, sf",Yes,Yes,Staccato,,Yes,No
+2494-2,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,10,145,Allegro con brio,5,C2,Db6,p,Yes,No,,,Yes,No
+2494-3,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,8,145,Allegro con brio,4,C2,Ab5,"f, ff, p, sf",No,No,Staccato,,No,No
+2494-4,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,11,145,Allegro con brio,5,C2,F6,p,No,No,,𝄫,No,No
+2494-5,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,10,145,Allegro con brio,5,C3,Ab6,p,Yes,No,Staccato,,No,No
+2494-6,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,7,145,Allegro con brio,4,C2,Bb5,"f, p, sf",Yes,Yes,,,Yes,No
+2494-7,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,7,145,Allegro con brio,4,C2,D6,"f, ff, sf",No,No,Staccato,,Yes,No
+2494-8,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,10,145,Allegro con brio,5,Db2,Eb6,,No,No,,,Yes,No
+2494-9,Beethoven,String Quartet No 11 in F minor,1,OP95,Pascal String Quartet,8,145,Allegro con brio,4,Db2,Bb5,"p, pp",Yes,No,Staccato,,No,No
+2497-0,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,9,80,Allegretto agitato,5,E2,Db6,p,Yes,Yes,Staccato,,Yes,No
+2497-1,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,10,80,Allegretto agitato,6,C2,Db6,f,Yes,Yes,Staccato,"Grace Note, Mordent",No,No
+2497-2,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,12,80,Allegretto agitato,6,F2,Db6,"f, ff, pp",Yes,No,,Fermata,Yes,No
+2497-3,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,8,80,Allegretto agitato,5,C2,F6,pp,Yes,Yes,Staccato,,No,No
+2497-4,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,7,80,Allegretto agitato,5,C2,Eb6,"ff, p, sf",Yes,No,,Grace Note,Yes,No
+2497-5,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,6,80,Allegretto agitato,4,C2,F6,"f, p",No,No,,Grace Note,Yes,No
+2497-6,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,6,80,Allegretto agitato,4,G2,Eb6,p,Yes,Yes,,Grace Note,Yes,No
+2497-7,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,6,80,Allegretto agitato,4,C3,G6,"p, sf",No,No,,,Yes,No
+2497-8,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,6,80,Allegretto agitato,4,C2,G6,"fp, p, pp, sf, sfp",No,No,Staccato,,Yes,No
+2497-9,Beethoven,String Quartet No 11 in F minor,4,OP95,Pascal String Quartet,12,80,Allegretto agitato,7,F2,Db6,p,Yes,Yes,Staccato,,Yes,No
+2560-0,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,24,32,Adagio cantabile,4,C2,F5,p,Yes,No,,Grace Note,No,No
+2560-1,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,23,32,Adagio cantabile,4,C2,A5,p,No,No,,Grace Note,Yes,No
+2560-2,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,23,32,Adagio cantabile,4,B2,E6,p,Yes,Yes,,Grace Note,Yes,No
+2560-3,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,23,32,Adagio cantabile,4,G2,F6,"fp, p",Yes,Yes,Staccato,,Yes,No
+2560-4,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,26,32,Adagio cantabile,4,G2,F6,"f, fp, p",Yes,No,Staccato,,Yes,No
+2560-5,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,6,140,Allegro,7,C2,A5,"f, p",No,No,Staccato,,No,No
+2560-6,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,6,140,Allegro,7,E2,D6,p,Yes,No,Staccato,,No,No
+2560-7,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,7,140,Allegro,8,C2,D6,"f, fp",No,No,Staccato,,Yes,No
+2560-8,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,4,140,Allegro,5,G2,F6,p,Yes,No,Staccato,,No,No
+2560-9,Beethoven,String Quartet No 2 in G major,2,OP18NO2,Pascal String Quartet,23,32,Adagio cantabile,4,G2,E6,p,Yes,Yes,Staccato,,No,No
+2562-0,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,10,85,Allegro molto quasi Presto,13,A2,F#5,p,No,No,Staccato,,No,No
+2562-1,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,8,85,Allegro molto quasi Presto,11,G2,C6,"f, p, sf",Yes,No,Staccato,Grace Note,No,No
+2562-2,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,6,85,Allegro molto quasi Presto,9,G2,D6,"p, sf",No,No,Staccato,,No,No
+2562-3,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,7,85,Allegro molto quasi Presto,9,E2,D6,"f, ff, sf",Yes,No,Staccato,,Yes,No
+2562-4,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,9,85,Allegro molto quasi Presto,12,G#2,F6,"f, ff, sf",No,No,Staccato,,Yes,No
+2562-5,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,8,85,Allegro molto quasi Presto,11,D2,C#6,"f, p",No,No,Staccato,,No,No
+2562-6,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,7,85,Allegro molto quasi Presto,9,F#2,B5,"p, sf",No,No,Staccato,,No,No
+2562-7,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,12,85,Allegro molto quasi Presto,15,G2,G6,"f, p, sf",Yes,No,Staccato,Trill,Yes,No
+2562-8,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,11,85,Allegro molto quasi Presto,14,C2,Bb5,"p, pp",No,No,Staccato,,No,No
+2562-9,Beethoven,String Quartet No 2 in G major,4,OP18NO2,Pascal String Quartet,8,85,Allegro molto quasi Presto,11,A2,E6,"f, ff, sf",Yes,No,Staccato,"Grace Note, Trill",No,No
+2621-0,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,12,160,Allegro,8,G3,D6,p,Yes,No,Staccato,,Yes,No
+2621-1,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,16,160,Allegro,10,C2,F6,"f, ff, p, sf",No,No,Staccato,,Yes,No
+2621-2,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,17,160,Allegro,10,F2,G5,"p, sf",Yes,Yes,Staccato,,Yes,No
+2621-3,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,13,160,Allegro,8,E3,G6,"p, sfp",Yes,No,Staccato,,No,No
+2621-4,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,12,160,Allegro,7,C#2,G6,"f, ff, p, sf",Yes,No,,,Yes,No
+2621-5,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,14,160,Allegro,8,G2,G5,"p, sfp",Yes,Yes,,,Yes,No
+2621-6,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,14,160,Allegro,8,C2,B5,p,Yes,Yes,,"Grace Note, Trill",No,No
+2621-7,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,10,160,Allegro,6,C4,G6,sfp,Yes,No,Staccato,"Grace Note, Trill",No,No
+2621-8,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,10,160,Allegro,6,A2,G6,"p, pp",No,No,,,Yes,No
+2621-9,Beethoven,String Quartet No 7 in F major,1,OP59NO1,European Archive,9,160,Allegro,6,C2,G6,"f, ff",Yes,No,Staccato,,Yes,No
+2622-0,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,12,60,Allegretto vivace e sempre scherzando,11,D2,D6,"f, ff, p, sf",No,No,Staccato,,Yes,No
+2622-1,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,10,60,Allegretto vivace e sempre scherzando,9,F2,Bb5,"f, p, sf",Yes,Yes,Staccato,"Grace Note, Trill",No,No
+2622-2,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,12,60,Allegretto vivace e sempre scherzando,10,D2,A4,"p, pp, sf",Yes,Yes,Staccato,,Yes,No
+2622-3,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,13,60,Allegretto vivace e sempre scherzando,12,C2,Gb4,pp,No,Yes,Staccato,,No,No
+2622-4,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,9,60,Allegretto vivace e sempre scherzando,9,A2,F6,"f, ff, sf",No,No,Staccato,Grace Note,Yes,No
+2622-5,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,9,60,Allegretto vivace e sempre scherzando,9,C2,D6,"ff, pp, sf",No,No,Staccato,,Yes,No
+2622-6,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,9,60,Allegretto vivace e sempre scherzando,9,Bb2,G6,"f, p, sf",No,No,Staccato,"Grace Note, Trill",Yes,No
+2622-7,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,11,60,Allegretto vivace e sempre scherzando,10,C2,Eb6,"f, p, sf",Yes,Yes,Staccato,,Yes,No
+2622-8,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,10,60,Allegretto vivace e sempre scherzando,9,C2,C6,,Yes,Yes,Staccato,,No,No
+2622-9,Beethoven,String Quartet No 7 in F major,2,OP59NO1,European Archive,9,60,Allegretto vivace e sempre scherzando,9,F2,Eb6,"f, p, sf",Yes,Yes,Staccato,,Yes,Yes
